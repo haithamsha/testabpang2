@@ -1,6 +1,6 @@
 import { Environment } from '@abp/ng.core';
 
-const baseUrl = 'http://localhost:4200';
+const baseUrl = 'https://abpngtest-079dcadea84b.herokuapp.com';
 
 export const environment = {
   production: true,
